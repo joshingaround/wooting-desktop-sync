@@ -1,0 +1,9 @@
+{
+  "_comment": "desktop_to_profile: Windows virtual desktop number -> Wooting profile slot, both 1-based (as shown in Windows / Wootility). Slots not listed are left alone.",
+  "desktop_to_profile": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  },
+  "poll_ms": 250
+}

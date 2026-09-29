@@ -1,0 +1,4 @@
+config.json
+sync.log*
+__pycache__/
+*.dll
